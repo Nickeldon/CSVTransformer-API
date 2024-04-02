@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  },
+  "name": "csvtransformer-api",
+  "description": "Do simple and complex CSV transformations using this API",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nickeldon/CSVTransformer-API.git"
+  },
+  "keywords": [
+    "csv",
+    "tranform",
+    "parse"
+  ],
+  "author": "Nickeldon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nickeldon/CSVTransformer-API/issues"
+  },
+  "homepage": "https://github.com/Nickeldon/CSVTransformer-API#readme"
+}
